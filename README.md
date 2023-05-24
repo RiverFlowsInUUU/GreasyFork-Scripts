@@ -11,5 +11,5 @@
   https://greasyfork.org/zh-CN/scripts/12909-google-baidu-switcher-all-in-one
 - ChatGPT - Prompt提示选择器  
   https://greasyfork.org/zh-CN/scripts/464168-chatgpt-prompt%E6%8F%90%E7%A4%BA%E9%80%89%E6%8B%A9%E5%99%A8
-- YouTube去广告 
+- YouTube去广告  
   https://greasyfork.org/zh-CN/scripts/459541-youtube%E5%8E%BB%E5%B9%BF%E5%91%8A-youtube-ad-blocker
